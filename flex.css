@@ -44,3 +44,29 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+.mainuser{
+    border: 4px solid blue;
+    font-size: 2em;
+    height: 150px;
+    width: 150px;
+    background-color: white;
+}
+.main-container{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.branchuser{
+    border: 4px solid blue;
+    font-size: 2em;
+    height: 150px;
+    width: 150px;
+    background-color: white;
+}
+.branch-container{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
